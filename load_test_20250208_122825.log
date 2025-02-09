@@ -1,0 +1,313 @@
+2025-02-08 12:28:25 - 새로운 테스트 사이클 시작
+2025-02-08 12:28:25 - CPU 집약적 작업 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /cpu-intensive
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   11.273 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:36 - CPU 집약적 작업 테스트 완료
+-------------------
+2025-02-08 12:28:36 - 메모리 누수 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /memory-leak
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   16.935 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:53 - 메모리 누수 테스트 완료
+-------------------
+시스템 상태:
+CPU 사용량:
+메모리 사용량:
+=====================================
+2025-02-08 12:28:53 - 새로운 테스트 사이클 시작
+2025-02-08 12:28:53 - CPU 집약적 작업 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /cpu-intensive
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   0.134 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:53 - CPU 집약적 작업 테스트 완료
+-------------------
+2025-02-08 12:28:53 - 메모리 누수 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /memory-leak
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   0.165 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:53 - 메모리 누수 테스트 완료
+-------------------
+시스템 상태:
+CPU 사용량:
+메모리 사용량:
+=====================================
+2025-02-08 12:28:53 - 새로운 테스트 사이클 시작
+2025-02-08 12:28:53 - CPU 집약적 작업 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /cpu-intensive
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   0.174 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:53 - CPU 집약적 작업 테스트 완료
+-------------------
+2025-02-08 12:28:53 - 메모리 누수 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /memory-leak
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   0.606 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:54 - 메모리 누수 테스트 완료
+-------------------
+시스템 상태:
+CPU 사용량:
+메모리 사용량:
+=====================================
+2025-02-08 12:28:54 - 새로운 테스트 사이클 시작
+2025-02-08 12:28:54 - CPU 집약적 작업 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /cpu-intensive
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   0.118 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:54 - CPU 집약적 작업 테스트 완료
+-------------------
+2025-02-08 12:28:54 - 메모리 누수 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /memory-leak
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   0.158 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:54 - 메모리 누수 테스트 완료
+-------------------
+시스템 상태:
+CPU 사용량:
+메모리 사용량:
+=====================================
+2025-02-08 12:28:54 - 새로운 테스트 사이클 시작
+2025-02-08 12:28:54 - CPU 집약적 작업 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /cpu-intensive
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   0.125 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:55 - CPU 집약적 작업 테스트 완료
+-------------------
+2025-02-08 12:28:55 - 메모리 누수 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /memory-leak
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   0.158 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:55 - 메모리 누수 테스트 완료
+-------------------
+시스템 상태:
+CPU 사용량:
+메모리 사용량:
+=====================================
+2025-02-08 12:28:55 - 새로운 테스트 사이클 시작
+2025-02-08 12:28:55 - CPU 집약적 작업 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /cpu-intensive
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   0.121 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:55 - CPU 집약적 작업 테스트 완료
+-------------------
+2025-02-08 12:28:55 - 메모리 누수 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8000
+
+Document Path:          /memory-leak
+Document Length:        0 bytes
+
+Concurrency Level:      10
+Time taken for tests:   0.158 seconds
+Complete requests:      0
+Failed requests:        0
+Total transferred:      0 bytes
+HTML transferred:       0 bytes
+2025-02-08 12:28:55 - 메모리 누수 테스트 완료
+-------------------
+시스템 상태:
+CPU 사용량:
+메모리 사용량:
+=====================================
+2025-02-08 12:28:55 - 새로운 테스트 사이클 시작
+2025-02-08 12:28:55 - CPU 집약적 작업 테스트 시작
+This is ApacheBench, Version 2.3 <$Revision: 1913912 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
